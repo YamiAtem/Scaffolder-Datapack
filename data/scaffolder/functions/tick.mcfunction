@@ -1,0 +1,1 @@
+execute at @a[nbt={SelectedItem:{id:"minecraft:blaze_rod", Count:1b, tag:{scaffold:1b}}}] run setblock ~ ~-1 ~ dirt
